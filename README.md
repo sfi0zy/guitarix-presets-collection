@@ -4,6 +4,12 @@ Some presets for Guitarix.
 
 ![Guitarix Screenshot](/guitarix-screenshot.jpg)
 
+The banks in this collection are created for home usage with the notebook and the common speakers or headphones:
+
+![Commutation](/commutation.svg)
+
+The presets settings are tested using the Jagmaster with vintage humbuckers.
+
 
 
 ## Installation
@@ -22,7 +28,7 @@ The collection includes:
 
 Bright vintage sound with reverb and tremolo. Nice choice for old school rock music, blues and experiments with echoes.
 
-This preset is created for home usage with the notebook and the common speakers or headphones.
+This preset is created for usage with the small speakers or headphones.
 
 The Deluxe Reverb has no effects loops, so the pedals are plugged before the amp. It's not a mistake. We use the CryBaby (auto), the Tone Screamer and the Digital Delay and this pedalboard remains unchanged in different presets to make the switches between them more realistic.
 
